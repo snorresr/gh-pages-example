@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Example
+title: SnorreTest
 ---
 
 # Example project
